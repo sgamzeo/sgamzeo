@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.app.goo.gl/LVNgX1zCr4As3i2W7" />
+
 
 ###
 
@@ -46,6 +46,5 @@
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
