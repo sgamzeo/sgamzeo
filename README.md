@@ -1,8 +1,8 @@
-<h2 align="left">Hi ! My name is Sena and I'm a React Native, from Istanbul 👋🏻</h2>
+<h2 align="left">Hi ! My name is Sena and I'm a React Native Developer from Istanbul 👋🏻</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://images.app.goo.gl/LVNgX1zCr4As3i2W7" />
 
 ###
 
