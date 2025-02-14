@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! My name is Sena and I'm a  Junior Flutter Developer from Istanbul 👋🏻</h2>
+<h2 align="left">Junior Flutter Developer </h2>
 
 ###
 
