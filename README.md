@@ -68,7 +68,7 @@ Transitioning from English Literature to mobile development with focus on creati
 
 ## Mobile Development
 - Flutter application development
-- State management (GetX, Provider)
+- State management (GetX)
 - UI/UX implementation
 - Firebase integration (Auth, Firestore)
 
