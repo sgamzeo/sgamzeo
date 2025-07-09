@@ -1,24 +1,52 @@
-<h2 align="left">Junior Flutter Developer </h2>
+# Hi, I'm Sena Gamze Öz 👋
 
-###
+Junior Flutter Developer focused on clean code and good user experience.
+
+---
+
+### 🌱 About Me
+
+- 🎓 English Literature graduate learning app development.
+- 📚 Improving skills in **state management**, **modular design**, and **UI/UX**.
+- 🧹 Prefer clear structure, consistent naming, and well-documented code.
+- ☕ Believe small details matter.
+
+---
+
+### ⚙️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
 </div>
 
+---
 
+### 🚀 Projects
 
-###
+| Project | Focus |
+|---------|-------|
+| 🐶 Luppy Dating App | Onboarding, authentication, navigation with Flutter & GetX |
+| ⏱ Pomodoro Timer | Timer app with animations and sound |
+
+---
+
+### 🧩 Coding Style
+
+- Write modular and reusable code.
+- Use GetX for state and dependencies.
+- Keep code clean with extensions.
+
+---
+
+### 📫 Contact
+
+- Email: ssenagamzee@gmail.com  
+- Location: Turkey
+
+---
+
+*Learning step by step, building useful apps.*
