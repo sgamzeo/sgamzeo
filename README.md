@@ -1,5 +1,5 @@
 # Sena Gamze Öz  
-**Junior Flutter Developer**  
+**Flutter Developer**  
 
 <div align="center">
   <a href="mailto:ssenagamzee@gmail.com">
